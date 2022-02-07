@@ -102,7 +102,7 @@ python label_studio/manage.py runserver
 
 You can deploy Label Studio with one click in Heroku, Microsoft Azure, or Google Cloud Platform: 
 
-[<img src="https://www.herokucdn.com/deploy/button.svg" height="30px">](https://heroku.com/deploy?template=https://github.com/heartexlabs/label-studio/tree/master)
+[<img src="https://www.herokucdn.com/deploy/button.svg" height="30px">](https://heroku.com/deploy?template=https://github.com/JEMIX-LTD/label-studio/tree/master)
 [<img src="https://deploy.cloud.run/button.svg" height="30px">](https://deploy.cloud.run)
 
 
