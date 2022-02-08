@@ -1,5 +1,9 @@
+setup:
+  addons:
+  - plan: heroku-postgresql
+    as: DATABASE
 build:
   docker:
-    web: Dockerfile
+    web: Dockerfile.heroku
 run:
   web: ./deploy/heroku_run.sh
